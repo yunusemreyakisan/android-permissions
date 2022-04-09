@@ -1,5 +1,4 @@
 
-# 📱Example Android Apps
+# 📱Örnek Android İzinleri Uygulamaları
 
-+ Proje içerisinde çeşitli Android uygulamalarına yer veriyor olacağım.
 
